@@ -5,7 +5,7 @@
 ## Olá 👋
 
 <div>
-  <img align="right" src="https://c.tenor.com/6GIi9tonjeEAAAAd/parkour-the-office.gif" width="400" height="285">
+  <img align="right" src="https://c.tenor.com/6GIi9tonjeEAAAAd/parkour-the-office.gif" width="400" height="260">
   <p align="left">- :man: Tenho 23 anos</p>
   <p align="left">- :house: Atualmente moro em Aracaju-SE</p>
   <p align="left">- :heart: Sou apaixonado por animais </p>
