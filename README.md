@@ -6,11 +6,11 @@
 
 <div>
   <img align="right" src="https://c.tenor.com/6GIi9tonjeEAAAAd/parkour-the-office.gif" width="400" height="260">
-  <p align="left">- :man: Tenho 23 anos</p>
+  <p align="left">- :man: Tenho 24 anos</p>
   <p align="left">- :house: Atualmente moro em Aracaju-SE</p>
   <p align="left">- :heart: Sou apaixonado por animais </p>
     <ul>
-      <li> :cat: 6 gatos </li>
+      <li> :cat: 7 gatos </li>
       <li> :dog: 1 cachorro </li>
       <li> :turtle: 1 jabuti </li>
     </ul>
